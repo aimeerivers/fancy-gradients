@@ -21,7 +21,7 @@ function updateCSSOutput() {
   const styles = window.getComputedStyle(demo);
   let output = ".fancy {\n";
 
-  const backgroundProperties = ['background-image', 'background-color'];
+  const backgroundProperties = ['background-color', 'background-image'];
 
   for (let property of backgroundProperties) {
     let value = styles.getPropertyValue(property);
