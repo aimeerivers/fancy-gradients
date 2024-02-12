@@ -81,7 +81,7 @@
 }
 
 .minty {
-  background: linear-gradient(to right, #00C9FF, #92FE9D);
+  background: linear-gradient(40deg, #00C9FF, #92FE9D);
 }
 
 .lavender {
@@ -97,5 +97,5 @@
 }
 
 .yummy {
-  background: linear-gradient(to bottom, rgb(3, 0, 30), rgb(115, 3, 192), rgb(236, 56, 188), rgb(253, 239, 249));
+  background: linear-gradient(23deg, rgb(3, 0, 30), rgb(115, 3, 192), rgb(236, 56, 188), rgb(253, 239, 249));
 }
