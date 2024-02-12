@@ -1,4 +1,5 @@
-* {
+body {
+  padding: 10px;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -10,10 +11,9 @@
 
 #demo {
   clear: all;
-  position: absolute;
-  left: 0.5em;
-  right: 0.5em;
-  height: 60%;
+  display: inline-block;
+  width: 95vw;
+  height: 60vh;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -22,8 +22,8 @@
   cursor: pointer;
   display: inline-block;
   margin: 0.1em;
-  width: 5em;
-  height: 5em;
+  width: 4em;
+  height: 4em;
 }
 
 .windfall {
