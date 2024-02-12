@@ -5,6 +5,11 @@ const boxes = document.querySelectorAll('.box');
 boxes.forEach(box => {
   box.addEventListener('click', function() {
     const className = this.getAttribute('title');
+    const activeBox = document.querySelector('.box.active');
+    if (activeBox) {
+      activeBox.classList.remove('active');
+    }
+    this.classList.add('active');
     choose(className);
   });
 });
