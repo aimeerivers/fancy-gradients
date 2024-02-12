@@ -27,15 +27,15 @@ body {
 }
 
 .windfall {
-  background:
+  background-image:
     radial-gradient(circle at 30% 30%, rgba(255, 0, 255, 0.6), transparent 70%),
     radial-gradient(circle at 80% 60%, rgba(0, 255, 255, 0.6), transparent 60%),
-    radial-gradient(circle at 10% 80%, rgba(0, 0, 255, 0.6), transparent 50%),
-    #3a2d5d;
+    radial-gradient(circle at 10% 80%, rgba(0, 0, 255, 0.6), transparent 50%);
+  background-color: #3a2d5d;
 }
 
 .party {
-  background:
+  background-image:
     radial-gradient(circle at top left,
       rgba(255, 255, 255, 0.5),
       transparent 50%),
@@ -47,12 +47,12 @@ body {
       transparent 80%),
     radial-gradient(at bottom right,
       rgba(255, 100, 100, 0.5),
-      transparent 30%),
-    teal;
+      transparent 30%);
+  background-color: teal;
 }
 
 .swishy {
-  background:
+  background-image:
     radial-gradient(circle at 17% 41%, #0000FF, transparent 80%),
     radial-gradient(circle at 60% 7%, #FF00FF, transparent 80%),
     radial-gradient(circle at 75% 82%, #7F00FF, transparent 80%),
@@ -61,7 +61,7 @@ body {
 }
 
 .sunray {
-  background:
+  background-image:
     radial-gradient(circle at 99% 2%, #353535, transparent 80%),
     radial-gradient(circle at 4% 11%, #FAF474, transparent 80%),
     radial-gradient(circle at 29% 77%, #FECEAB, transparent 80%),
@@ -69,21 +69,21 @@ body {
 }
 
 .spotlights {
-  background: radial-gradient(circle at 20% 40%, #fbc2eb 0%, transparent 50%),
-    radial-gradient(circle at 80% 60%, #a6c1ee 0%, transparent 50%),
-    #000428;
+  background-image: radial-gradient(circle at 20% 40%, #fbc2eb 0%, transparent 50%),
+    radial-gradient(circle at 80% 60%, #a6c1ee 0%, transparent 50%);
+  background-color: #000428;
 }
 
 .showdown {
-  background: radial-gradient(circle at 20% 20%, #007991 0%, transparent 70%),
+  background-image: radial-gradient(circle at 20% 20%, #007991 0%, transparent 70%),
     radial-gradient(circle at 90% 10%, #20a967 0%, transparent 70%),
     radial-gradient(circle at 90% 90%, #78a1ff 0%, transparent 60%),
-    radial-gradient(circle at 40% 80%, #78ffd6 0%, transparent 80%),
-    #000428;
+    radial-gradient(circle at 40% 80%, #78ffd6 0%, transparent 80%);
+  background-color: #000428;
 }
 
 .fresh {
-  background:
+  background-image:
     radial-gradient(circle at 85% 18%, #D7AEFB, transparent 80%),
     radial-gradient(circle at 23% 67%, #A7FEEB, transparent 80%),
     radial-gradient(circle at 17% 3%, #FAF474, transparent 80%),
@@ -91,7 +91,7 @@ body {
 }
 
 .bubbles {
-  background:
+  background-image:
     radial-gradient(circle at 11% 20%, #FFFACD, transparent 30%),
     radial-gradient(circle at 1% 81%, #FFFACD, transparent 30%),
     radial-gradient(circle at 44% 21%, #FFFACD, transparent 30%),
@@ -105,36 +105,36 @@ body {
 }
 
 .dusky {
-  background: radial-gradient(circle at 10% 30%, #004e92 0%, transparent 50%),
+  background-image: radial-gradient(circle at 10% 30%, #004e92 0%, transparent 50%),
     radial-gradient(circle at 80% 0%, #000428 0%, transparent 50%),
-    radial-gradient(circle at 60% 80%, #fbc2eb 0%, transparent 80%),
-    #000428;
+    radial-gradient(circle at 60% 80%, #fbc2eb 0%, transparent 80%);
+  background-color: #000428;
 }
 
 .jupiter {
-  background: linear-gradient(to bottom, #ffd89b, #19547b);
+  background-image: linear-gradient(to bottom, #ffd89b, #19547b);
 }
 
 .juice {
-  background: linear-gradient(to right, #7B4397, #DC2430);
+  background-image: linear-gradient(to right, #7B4397, #DC2430);
 }
 
 .minty {
-  background: linear-gradient(40deg, #00C9FF, #92FE9D);
+  background-image: linear-gradient(40deg, #00C9FF, #92FE9D);
 }
 
 .lavender {
-  background: radial-gradient(circle, #fbc2eb, #a6c1ee);
+  background-image: radial-gradient(circle, #fbc2eb, #a6c1ee);
 }
 
 .corporate {
-  background: radial-gradient(circle, #004e92, #000428);
+  background-image: radial-gradient(circle, #004e92, #000428);
 }
 
 .peach {
-  background: linear-gradient(to right, #f12711, #f5af19);
+  background-image: linear-gradient(to right, #f12711, #f5af19);
 }
 
 .yummy {
-  background: linear-gradient(23deg, rgb(3, 0, 30), rgb(115, 3, 192), rgb(236, 56, 188), rgb(253, 239, 249));
+  background-image: linear-gradient(23deg, rgb(3, 0, 30), rgb(115, 3, 192), rgb(236, 56, 188), rgb(253, 239, 249));
 }
