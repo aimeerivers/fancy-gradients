@@ -2,7 +2,8 @@
   font-family: 'Open Sans', sans-serif;
 }
 
-#demo, .box {
+#demo,
+.box {
   border: 1px solid lightgray;
   border-radius: 0.5em;
 }
@@ -58,17 +59,17 @@
 
 .showdown {
   background: radial-gradient(circle at 20% 20%, #007991 0%, transparent 70%),
-  radial-gradient(circle at 90% 10%, #20a967 0%, transparent 70%),
-  radial-gradient(circle at 90% 90%, #78a1ff 0%, transparent 60%),
-  radial-gradient(circle at 40% 80%, #78ffd6 0%, transparent 80%),
-  #000428;
+    radial-gradient(circle at 90% 10%, #20a967 0%, transparent 70%),
+    radial-gradient(circle at 90% 90%, #78a1ff 0%, transparent 60%),
+    radial-gradient(circle at 40% 80%, #78ffd6 0%, transparent 80%),
+    #000428;
 }
 
 .dusky {
   background: radial-gradient(circle at 10% 30%, #004e92 0%, transparent 50%),
-  radial-gradient(circle at 80% 0%, #000428 0%, transparent 50%),
-  radial-gradient(circle at 60% 80%, #fbc2eb 0%, transparent 80%),
-  #000428;
+    radial-gradient(circle at 80% 0%, #000428 0%, transparent 50%),
+    radial-gradient(circle at 60% 80%, #fbc2eb 0%, transparent 80%),
+    #000428;
 }
 
 .jupiter {
