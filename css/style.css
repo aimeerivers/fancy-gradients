@@ -156,6 +156,55 @@ body {
   background-image: linear-gradient(23deg, rgb(3, 0, 30), rgb(115, 3, 192), rgb(236, 56, 188), rgb(253, 239, 249));
 }
 
+.political {
+  background-image:
+    radial-gradient(circle at 96% 10%, #CB4154, transparent 80%),
+    radial-gradient(circle at 8% 40%, #1560BD, transparent 100%),
+    radial-gradient(circle at 64% 67%, #4B0082, transparent 100%),
+    radial-gradient(circle at 31% 11%, #36454F, transparent 100%);
+}
+
+.elmer {
+  background-image:
+    radial-gradient(circle at 48% 48%, #1560BD, transparent 10%),
+    radial-gradient(circle at 71% 28%, #4B0082, transparent 10%),
+    radial-gradient(circle at 29% 25%, #FF7F50, transparent 10%),
+    radial-gradient(circle at 34% 55%, #1560BD, transparent 10%),
+    radial-gradient(circle at 49% 19%, #008080, transparent 10%),
+    radial-gradient(circle at 61% 71%, #4B0082, transparent 10%),
+    radial-gradient(circle at 64% 13%, #228B22, transparent 10%),
+    radial-gradient(circle at 12% 73%, #FF7F50, transparent 10%),
+    radial-gradient(circle at 14% 10%, #FFF0F5, transparent 10%),
+    radial-gradient(circle at 22% 50%, #D896FF, transparent 10%),
+    radial-gradient(circle at 45% 73%, #FFDB58, transparent 10%),
+    radial-gradient(circle at 59% 48%, #CB4154, transparent 10%),
+    radial-gradient(circle at 72% 66%, #FFE5B4, transparent 10%),
+    radial-gradient(circle at 11% 12%, #87CEEB, transparent 10%),
+    radial-gradient(circle at 25% 7%, #F5F5DC, transparent 10%),
+    radial-gradient(circle at 5% 39%, #708090, transparent 10%),
+    radial-gradient(circle at 51% 95%, #D896FF, transparent 10%),
+    radial-gradient(circle at 25% 86%, #CB4154, transparent 10%),
+    radial-gradient(circle at 92% 33%, #CB4154, transparent 10%),
+    radial-gradient(circle at 83% 81%, #228B22, transparent 10%),
+    radial-gradient(circle at 39% 39%, #228B22, transparent 10%),
+    radial-gradient(circle at 57% 32%, #FFDB58, transparent 10%),
+    radial-gradient(circle at 90% 63%, #FFDB58, transparent 10%),
+    radial-gradient(circle at 38% 12%, #40E0D0, transparent 10%),
+    radial-gradient(circle at 37% 90%, #40E0D0, transparent 10%),
+    radial-gradient(circle at 81% 13%, #40E0D0, transparent 10%),
+    radial-gradient(circle at 70% 93%, #EA7E5D, transparent 10%),
+    radial-gradient(circle at 4% 88%, #9DC183, transparent 10%),
+    radial-gradient(circle at 22% 31%, #FFF0F5, transparent 10%),
+    radial-gradient(circle at 32% 70%, #FFF0F5, transparent 10%),
+    radial-gradient(circle at 66% 42%, #FFF0F5, transparent 10%),
+    radial-gradient(circle at 83% 48%, #FFF0F5, transparent 10%),
+    radial-gradient(circle at 98% 97%, #FFF0F5, transparent 10%),
+    radial-gradient(circle at 20% 17%, #4B0082, transparent 90%),
+    radial-gradient(circle at 72% 54%, #1560BD, transparent 90%),
+    radial-gradient(circle at 96% 94%, #008080, transparent 90%),
+    radial-gradient(circle at 4% 40%, #708090, transparent 90%);
+}
+
 #cssOutput {
   white-space: pre-wrap;
   background-color: #f0f0f0;
