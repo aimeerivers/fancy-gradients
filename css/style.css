@@ -95,3 +95,7 @@
 .peach {
   background: linear-gradient(to right, #f12711, #f5af19);
 }
+
+.yummy {
+  background: linear-gradient(to bottom, rgb(3, 0, 30), rgb(115, 3, 192), rgb(236, 56, 188), rgb(253, 239, 249));
+}
